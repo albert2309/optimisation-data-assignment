@@ -1,5 +1,0 @@
-<s> a b c </s>
-<s> a b b c c </s>
-<s> c b a </s>
-<s> a b c d </s>
-<s> a d e b </s>
